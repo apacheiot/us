@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #0984a3;
+    border-color: #730c38;
     border-width: 3px;
 }
 
@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #0984a3;
+    color: #730c38;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -47,7 +47,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #0984a3;
+    background-color: #730c38;
 }
 
 .bg-dark {
@@ -318,7 +318,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #0984a3;
+    color: #730c38;
 }
 
 .no-gutter > [class*=col-] {
@@ -380,7 +380,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #0984a3;
+    border-color: #730c38;
     color: #fff;
     background-color: #4B4F54;
     -webkit-transition: all .35s;
