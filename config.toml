@@ -23,7 +23,7 @@ theme = "hugo-creative-theme"
   description = "Apache CloudStack Collaboration Conference hosted in Miami at ApacheCon."
 
   # The path must be relative to the static folder
-  favicon = "favicon.ico"
+  favicon = "favicon.ico?v=3"
 
   # Google Analytics.
   #googleAnalytics = ""
