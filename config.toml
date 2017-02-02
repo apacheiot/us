@@ -1,7 +1,8 @@
-baseurl = "http://us.cloudstackcollab.org/"
+baseurl = "http://us.apacheiot.org/"
 languageCode = "en-us"
-title = "Apache CloudStack Collaboration Conference - USA"
+title = "ApacheIoT Conference - USA"
 theme = "hugo-creative-theme"
+publishDir = "docs"
 
 [params]
 
@@ -19,8 +20,8 @@ theme = "hugo-creative-theme"
 
   # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-  name = "Apache CloudStack"
-  description = "Apache CloudStack Collaboration Conference hosted in Miami at ApacheCon."
+  name = "Apache IoT"
+  description = "Apache IoT Conference hosted in Miami at ApacheCon."
 
   # The path must be relative to the static folder
   favicon = "favicon.ico?v=3"
