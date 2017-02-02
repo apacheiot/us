@@ -10,17 +10,17 @@
     </div>
     <div class="container">
         <div class="col-xs-12 col-sm-6 col-sm-push-3">
-            <img src="/img/megaphone.jpg" style="width:100%" />
+            <img src="{{ .Site.BaseURL }}/img/megaphone.jpg" style="width:100%" />
         </div>
         <div class="col-xs-12 text-center" style="margin-top:30px;">
-            <a href="#get-involved" target="_blank" class="btn btn-primary btn-xl wow tada">SUBMIT A TALK</a>
+            <a href="{{ .Site.BaseURL }}#get-involved" target="_blank" class="btn btn-primary btn-xl wow tada">SUBMIT A TALK</a>
         </div>
 
         <!--
         <div class="row">
 
             <div class="col-xs-6 col-sm-3 col-md-2 col-md-push-2 text-center">
-                <a href="#portfolioModalIan" class="portfolio-link" data-toggle="modal">
+                <a href="{{ .Site.BaseURL }}#portfolioModalIan" class="portfolio-link" data-toggle="modal">
                     <div class="service-box">
                         <img src='img/speakers/ian.jpg'></img>
                         <h3>Ian Rae</h3>
@@ -41,7 +41,7 @@
                                     <div class="modal-body text-center">
                                         <h2>Ian Rae</h2>
                                         <hr class="star-primary">
-                                        <img src="img/speakers/ian.jpg" class="img-responsive img-centered" alt="">
+                                        <img src="{{ .Site.BaseURL }}/img/speakers/ian.jpg" class="img-responsive img-centered" alt="">
                                         <h3>Keynote</h3>
                                         <p style="text-align:left;">The Cloud Cosmos: a CloudStack Odyssey</p>
                                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>Close</button>
@@ -54,7 +54,7 @@
             </div>
 
             <div class="col-xs-6 col-sm-3 col-md-2 col-md-push-2 text-center">
-                <a href="#portfolioModalWill" class="portfolio-link" data-toggle="modal">
+                <a href="{{ .Site.BaseURL }}#portfolioModalWill" class="portfolio-link" data-toggle="modal">
                     <div class="service-box">
                         <img src='img/speakers/will.jpg'></img>
                         <h3>Will Stevens</h3>
@@ -75,7 +75,7 @@
                                     <div class="modal-body text-center">
                                         <h2>Will Stevens</h2>
                                         <hr class="star-primary">
-                                        <img src="img/speakers/will.jpg" class="img-responsive img-centered" alt="">
+                                        <img src="{{ .Site.BaseURL }}/img/speakers/will.jpg" class="img-responsive img-centered" alt="">
                                         <h3>Keynote Contributor and the State of CI</h3>
                                         <p style="text-align:left;">Intro to the Collab and state of CI, including an explanation of how we are currently working and ideas on how we test CloudStack.</p>
                                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>Close</button>
@@ -88,7 +88,7 @@
             </div>
 
             <div class="col-xs-6 col-sm-3 col-md-2 col-md-push-2 text-center">
-                <a href="#portfolioModalMike" class="portfolio-link" data-toggle="modal">
+                <a href="{{ .Site.BaseURL }}#portfolioModalMike" class="portfolio-link" data-toggle="modal">
                     <div class="service-box">
                         <img src='img/speakers/mike.jpeg'></img>
                         <h3>Mike Tutkowski</h3>
@@ -109,7 +109,7 @@
                                     <div class="modal-body text-center">
                                         <h2>Mike Tutkowski</h2>
                                         <hr class="star-primary">
-                                        <img src="img/speakers/mike.jpeg" class="img-responsive img-centered" alt="">
+                                        <img src="{{ .Site.BaseURL }}/img/speakers/mike.jpeg" class="img-responsive img-centered" alt="">
                                         <h3>Enabling Fast and Efficient Backend Snapshots for XenServer</h3>
                                         <p style="text-align:left;">Learn how to leverage primary storage in CloudStack (when using managed storage) to take fast and efficient volume snapshots for XenServer. Traditionally, volume snapshots are stored on secondary storage. This process of copying data from primary to secondary storage acts more like a backup than a snapshot. In this new model, we are able to make use of a SAN to quickly take snapshots. These snapshots can then be used to create new CloudStack volumes and templates. The volumes that are created from these snapshots are also performed in a fast and efficient manner by leveraging a SAN.</br></br>Presentation with Syed Ahmed</p>
                                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>Close</button>
@@ -122,7 +122,7 @@
             </div>
 
             <div class="col-xs-6 col-sm-3 col-md-2 col-md-push-2 text-center">
-                <a href="#portfolioModalPaul" class="portfolio-link" data-toggle="modal">
+                <a href="{{ .Site.BaseURL }}#portfolioModalPaul" class="portfolio-link" data-toggle="modal">
                     <div class="service-box">
                         <img src='img/speakers/paul.jpg'></img>
                         <h3>Paul Angus</h3>
