@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ApacheIoT Conference - USA</title>
-    <link>/us/pages/</link>
+    <link>https://apacheiot.github.io/us/pages/</link>
     <description>Recent content in Pages on ApacheIoT Conference - USA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/us/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://apacheiot.github.io/us/pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Live Stream</title>
-      <link>/us/pages/live-stream/</link>
+      <link>https://apacheiot.github.io/us/pages/live-stream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/us/pages/live-stream/</guid>
+      <guid>https://apacheiot.github.io/us/pages/live-stream/</guid>
       <description>&lt;div style=&#34;text-align:center;&#34;&gt;
     &lt;div style=&#34;font-size:150%;&#34;&gt;
         Participate Online: &lt;a href=&#34;https://apachecloudstack.slack.com/messages/ccc2016mtl/&#34; target=&#34;_blank&#34;&gt;#ccc2016mtl @ apachecloudstack.slack.com&lt;/a&gt;
@@ -21,7 +21,7 @@
     &lt;div&gt;This requires that you are already a channel member or have an &lt;code&gt;@apache.org&lt;/code&gt; email in order to register.&lt;/div&gt;
     &lt;br /&gt;
     &lt;p&gt;Save this URL so you can access this page later, without having to specify your details again.&lt;br /&gt;
-    Consult the &lt;a href=&#34;/us/#schedule&#34; target=&#34;_blank&#34;&gt;schedule&lt;/a&gt; for the upcoming talks.  The current EDT time is: &lt;code id=&#34;current-time&#34; class=&#34;text-fade&#34;&gt;&lt;/code&gt;&lt;/p&gt;
+    Consult the &lt;a href=&#34;https://apacheiot.github.io/us/#schedule&#34; target=&#34;_blank&#34;&gt;schedule&lt;/a&gt; for the upcoming talks.  The current EDT time is: &lt;code id=&#34;current-time&#34; class=&#34;text-fade&#34;&gt;&lt;/code&gt;&lt;/p&gt;
 
     &lt;div class=&#34;video-container&#34;&gt;
         &lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/f-hiV3ZTU-I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
