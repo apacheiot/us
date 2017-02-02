@@ -1,6 +1,6 @@
-# us.cloudstackcollab.org website
+# us.apacheiot.org website
 
-Source of website us.cloudstackcollab.org using gohugo framework.
+Source of website us.apacheiot.org using gohugo framework.
 
 ### run locally
 
