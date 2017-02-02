@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://apacheiot.github.io/us/</loc>
-    <priority>0</priority>
+    <loc>http://us.apacheiot.org/</loc>
   </url>
   
   <url>
-    <loc>https://apacheiot.github.io/us/pages/live-stream/</loc>
+    <loc>http://us.apacheiot.org/pages/live-stream/</loc>
   </url>
   
 </urlset>
